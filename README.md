@@ -1,48 +1,95 @@
-# Projeto-Estacio-CrudAlunos
+# 🧩 CRUD de Alunos em Java
 
-CRUD de Alunos em Java com Interface Gráfica (Swing), desenvolvido como trabalho para a disciplina de Programação Orientada a Objetos.
+## 📖 Descrição
 
----
+O **CRUD de Alunos** é um sistema desenvolvido como estudo para reforçar conceitos de **Java básico**, **organização de código** e boas práticas de programação.  
 
-## 📋 Descrição
-
-Sistema de cadastro de alunos com as operações:
-- ✅ Cadastrar aluno
-- ✏️ Atualizar dados
-- 🗑️ Remover aluno
-- 📄 Listar todos os alunos cadastrados
-
-Cada aluno possui:
-- Nome
-- Curso
-- Notas (digitadas separadas por vírgula)
-- ID (gerado automaticamente)
-
-A interface foi feita com **Swing (Java GUI)** e os dados são armazenados em memória (não usa banco de dados ainda).
+A ideia é praticar **lógica de programação, POO (Programação Orientada a Objetos)** e interação com o usuário através de menus no console, sem necessidade de banco de dados.
 
 ---
 
-## 🚀 Como executar
+## 🎮 Preview
 
-1. Clone o projeto:
-```bash
-git clone https://github.com/Matheus-TecDev/Projeto-Estacio-CrudAlunos.git
-Abra no IntelliJ ou qualquer IDE Java.
+Como a aplicação é em **console**, o preview acontece diretamente no terminal.  
 
-Rode a classe App.java — ela abre a interface gráfica com todos os botões.
+Exemplo de menu exibido:  
 
-⚠️ Requer Java 11 ou superior instalado.
+==== MENU CRUD DE ALUNOS ====
+1 - Cadastrar Aluno
+2 - Listar Alunos
+3 - Atualizar Aluno
+4 - Remover Aluno
+0 - Sair
+---
 
-🛠️ Tecnologias
-Java
+👉 [Vídeo base utilizado como apoio no YouTube] (https://www.youtube.com/watch?v=NfZSAsc_PRo&t=1s)  
 
-Swing (JFrame, JTextField, JButton, JList)
+---
 
-POO (Programação Orientada a Objetos)
+## ⚡ Funcionalidades
 
-📚 Observações
-O sistema não persiste os dados ao fechar (dados ficam na memória)
+- ➕ Cadastrar aluno.  
+- 📋 Listar todos os alunos cadastrados.  
+- ✏️ Atualizar dados de um aluno existente.  
+- ❌ Remover aluno da lista.  
+- Interface simples em **console**.  
 
-Pode ser facilmente adaptado para usar banco de dados como SQLite ou PostgreSQL
+---
 
-Ideal para fins didáticos e trabalhos acadêmicos
+## 📚 Conceitos praticados
+
+- Estrutura de classes e pacotes no Java.  
+- Manipulação de **listas em memória (ArrayList)**.  
+- Aplicação de **Programação Orientada a Objetos**.  
+- Estrutura de controle de fluxo (`switch`, `if/else`, loops).  
+- Boas práticas de separação de responsabilidades (Model, Service, View, Main).  
+
+---
+
+## 🛠️ Tecnologias
+
+- **Java 17** (compatível a partir do Java 8).  
+- IDE recomendada: **IntelliJ IDEA** ou **NetBeans**.  
+- Projeto **sem banco de dados** (dados apenas em memória).  
+
+---
+
+## 🚀 Como usar
+
+1. Clone o repositório:
+
+   git clone https://github.com/SEU_USUARIO/Projeto-Estacio-CrudAlunos.git
+   
+Acesse a pasta do projeto:
+
+cd Projeto-Estacio-CrudAluno
+
+Abra o projeto na sua IDE Java (IntelliJ, Eclipse ou NetBeans).
+
+Compile e rode a classe principal:
+
+src/main/App.java
+
+Use o menu interativo do console para testar as operações CRUD.
+
+---
+
+🤝 Contribuição
+Sugestões de melhorias são muito bem-vindas!
+
+Abra uma issue para relatar bugs ou propor ideias.
+
+Envie um Pull Request com suas contribuições.
+
+📌 Roadmap (versões futuras)
+Implementação de persistência em banco de dados (MySQL ou PostgreSQL).
+
+Criação de interface gráfica (Swing/JavaFX).
+
+Exportar lista de alunos em formato .txt ou .csv.
+
+## 👨‍💻 Autores
+
+- [Matheus Freire](https://github.com/Matheus-TecDev)  
+- [LinkedIn](https://www.linkedin.com/in/matheus-freire-martins-da-costa-318622376/)  
+📫 Contato: matheus.tecnodev@gmail.com
