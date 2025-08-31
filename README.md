@@ -74,22 +74,27 @@ Use o menu interativo do console para testar as operações CRUD.
 
 ---
 
-🤝 Contribuição
+## 🤝 Contribuição
 Sugestões de melhorias são muito bem-vindas!
 
 Abra uma issue para relatar bugs ou propor ideias.
 
 Envie um Pull Request com suas contribuições.
 
-📌 Roadmap (versões futuras)
+---
+
+## 📌 Roadmap (versões futuras)
 Implementação de persistência em banco de dados (MySQL ou PostgreSQL).
 
 Criação de interface gráfica (Swing/JavaFX).
 
 Exportar lista de alunos em formato .txt ou .csv.
 
+---
+
 ## 👨‍💻 Autores
 
 - [Matheus Freire](https://github.com/Matheus-TecDev)  
-- [LinkedIn](https://www.linkedin.com/in/matheus-freire-martins-da-costa-318622376/)  
+- [LinkedIn](https://www.linkedin.com/in/matheus-freire-martins-da-costa-318622376/)
+  
 📫 Contato: matheus.tecnodev@gmail.com
