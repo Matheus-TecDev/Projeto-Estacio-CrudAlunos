@@ -61,7 +61,7 @@ Exemplo de menu exibido:
 	```bash	 
 	git clone https://github.com/SEU_USUARIO/Projeto-Estacio-CrudAlunos.git
    
-Acesse a pasta do projeto:
+2. Acesse a pasta do projeto:
 	
 	```bash	
 	cd Projeto-Estacio-CrudAluno
