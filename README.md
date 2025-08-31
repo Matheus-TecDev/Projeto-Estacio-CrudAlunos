@@ -57,12 +57,14 @@ Exemplo de menu exibido:
 ## 🚀 Como usar
 
 1. Clone o repositório:
-
-   git clone https://github.com/SEU_USUARIO/Projeto-Estacio-CrudAlunos.git
+   
+	```bash	 
+	git clone https://github.com/SEU_USUARIO/Projeto-Estacio-CrudAlunos.git
    
 Acesse a pasta do projeto:
-
-cd Projeto-Estacio-CrudAluno
+	
+	```bash	
+	cd Projeto-Estacio-CrudAluno
 
 Abra o projeto na sua IDE Java (IntelliJ, Eclipse ou NetBeans).
 
