@@ -1,4 +1,4 @@
-# # 🧑‍🎓 CRUD de Alunos em Java
+## 🧑‍🎓 CRUD de Alunos em Java
 
 ## 📖 Descrição
 
