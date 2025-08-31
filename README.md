@@ -56,23 +56,24 @@ Exemplo de menu exibido:
 
 ## 🚀 Como usar
 
-1. Clone o repositório:
+1. **Clone o repositório:**
    
 	```bash	 
 	git clone https://github.com/SEU_USUARIO/Projeto-Estacio-CrudAlunos.git
    
-2. Acesse a pasta do projeto:
+2. **Acesse a pasta do projeto:**
 	
 	```bash	
 	cd Projeto-Estacio-CrudAluno
 
-Abra o projeto na sua IDE Java (IntelliJ, Eclipse ou NetBeans).
+3. **Abra o projeto na sua IDE Java (IntelliJ, Eclipse ou NetBeans).**
 
-Compile e rode a classe principal:
+4. **Compile e rode a classe principal:**
 
-src/main/App.java
+	```bash	
+	src/main/App.java
 
-Use o menu interativo do console para testar as operações CRUD.
+5. **Use o menu interativo do console para testar as operações CRUD.**
 
 ---
 
